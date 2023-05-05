@@ -1,4 +1,4 @@
-<b>Image-Captioning-using-Deep-Learning-Techniques</b><br></n>
+#Image-Captioning-using-Deep-Learning-Techniques
 <BODY BGCOLOR="#FA8072">
   
 <H1><FONT COLOR="#000000"><b><u>Project Objective</u></b></H1><br>
