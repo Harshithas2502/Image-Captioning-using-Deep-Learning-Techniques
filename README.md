@@ -1,7 +1,7 @@
 # Image-Captioning-using-Deep-Learning-Techniques
 
 
-#Project Objective
+<b>Project Objective</b><br>
 An application of Deep Learning requires passing the image to the model for 
 processing and generating its description, to finally develop an image caption 
 generator. Multiple modelling techniques i.e., CNN-LSTM, GRU, RNN can be 
