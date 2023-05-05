@@ -1,7 +1,7 @@
-# Image-Captioning-using-Deep-Learning-Techniques
-
-
-<b>Project Objective</b><br>
+<b>Image-Captioning-using-Deep-Learning-Techniques</b><br></n>
+<BODY BGCOLOR="#FA8072">
+  
+<H1><FONT COLOR="#000000"><b><u>Project Objective</u></b></H1><br>
 An application of Deep Learning requires passing the image to the model for 
 processing and generating its description, to finally develop an image caption 
 generator. Multiple modelling techniques i.e., CNN-LSTM, GRU, RNN can be 
@@ -17,8 +17,7 @@ processing, so its main challenges arise from the need of translating between tw
 distinct, but usually paired modalities. It includes the labeling of an image with 
 English keywords with the help of datasets provided during model training.
 
-
-#Conclusion
+<H1><FONT COLOR="#000000"><b><u>Conclusion</u></b></H1><br>
 In conclusion, image captioning using deep learning techniques has been a rapidly 
 advancing field in recent years. With the development of deep neural networks and the 
 availability of large annotated image datasets, researchers have made significant 
