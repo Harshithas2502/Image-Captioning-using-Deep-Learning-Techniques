@@ -16,7 +16,7 @@ This is a problem that integrates computer vision and natural language
 processing, so its main challenges arise from the need of translating between two 
 distinct, but usually paired modalities. It includes the labeling of an image with 
 English keywords with the help of datasets provided during model training.
-
+![image](https://github.com/Harshithas2502/Image-Captioning-using-Deep-Learning-Techniques/assets/118911463/14386b2e-1fe6-423d-a68b-15fdb7ffd540)
  
 <H2><FONT COLOR="#000000"><b><u>Conclusion</u></b></H2><br>
 In conclusion, image captioning using deep learning techniques has been a rapidly 
